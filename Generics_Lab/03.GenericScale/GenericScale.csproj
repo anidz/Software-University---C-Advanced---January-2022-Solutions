@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_03.GenericScale</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StartUpcs" />
+  </ItemGroup>
+
+</Project>
